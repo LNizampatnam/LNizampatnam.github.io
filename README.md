@@ -7,4 +7,6 @@ I was born and raised in India. Came to the US for my master's and eventually I 
 I also received an MBA from the Fuqua School of Business at Duke University.  
 
 I previously lived and worked in Japan. Managed cross-functional teams spread across the world.
-I am looking forward to polish my skills with the Fullstack Development with MERN, and understand more about the IT indistry!
+I am looking forward to polish my skills with the Fullstack Development with MERN, and understand more about the IT indistry!   
+
+My email: LNizampatnam@outlook.com
