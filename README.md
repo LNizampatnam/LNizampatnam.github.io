@@ -1,3 +1,3 @@
 # About Me...     
 
-<video src= "https://youtu.be/fKMk2ruWyxQ"/>   
+<video src= "https://youtu.be/fKMk2ruWyxQ" width="300"/>   
